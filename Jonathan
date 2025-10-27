@@ -1,0 +1,5 @@
+{
+  "WEBHOOK": "https://discord.com/api/webhooks/1432480906882318397/QrZY-cYZE_i5JUmur8p9c7jVEe-QCGNC_97JuU2KM8FoQ_uehmwUVlCyoBpjVbjfbiVy",
+  "RUN_ON_STARTUP": true,
+  "SCREENSHOT_INTERVAL": 5
+}
